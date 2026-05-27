@@ -68,10 +68,3 @@ An interactive sandbox utilizing NLTK TextBlob lexicons classifying text headlin
    streamlit run crypto_project/app/main.py
    ```
 4. Access the workspace in your browser at: `http://localhost:8501`
-
----
-
-## 🎓 Academic Credit & Course Framing
-*   **Topic**: Multi-Model Time Series Forecasting & Sentiment NLP in Volatile Markets
-*   **Course**: CS-501: Applied Machine Learning & Financial Engineering
-*   **Author**: quantitative Research Seminar
