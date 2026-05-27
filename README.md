@@ -1,5 +1,8 @@
 # 🌌 CryptoLens: Advanced Quantitative Analytics & Forecasting Platform
 
+[![Live App](https://img.shields.io/badge/Live%20Platform-Online-10b981?style=for-the-badge&logo=streamlit&logoColor=white)](https://cryptolens-quant-platform.streamlit.app/)
+
+
 CryptoLens is a state-of-the-art financial engineering workbench combining deep learning Recurrent Neural Networks (LSTM), statistical autoregression (ARIMA), and Bayesian time-series curve fitting (Meta Prophet) with live Natural Language Processing (NLP) sentiment metrics. 
 
 Designed for portfolio managers, quant developers, and academic research, it harvests live order book tick feeds from the Binance API and scrapes social feeds to deliver dynamic consensus trading signals natively in your browser.
